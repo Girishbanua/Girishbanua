@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Girishbanua
 - 👀 I’m interested in Web Designing and UI/UX Design
-- 🌱 I’m currently learning Html,CSS, Javascript, React.js
+- 🌱 I’m an intermediate in Html,CSS, Javascript, React.js
 - 💞️ I’m looking to collaborate on web development and designing
 - 📫 How to reach me , just email me at: swagatbanua17@gmail.com
 
