@@ -9,7 +9,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-<img align="right" height="100%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2gwMW44cDd2ZWw2azF0empkNzR1ZXM4Ynp0NTN4ZXQxOTlja3Z5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ifljlMklkBknYdf2Sd/giphy.gif"  />
+<img align="right" height="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2gwMW44cDd2ZWw2azF0empkNzR1ZXM4Ynp0NTN4ZXQxOTlja3Z5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ifljlMklkBknYdf2Sd/giphy.gif"  />
 
 
 <h4>💻<i>A passionate frontend developer from India</i></h4>
