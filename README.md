@@ -44,7 +44,7 @@
 </p>
 ##css##
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href=""><img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png" alt="PS" width="40" height="40" /> </a>
+<a href=""><img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-0.png" alt="PS" width="50" height="50" /></a>
 
 <p>
 Frontend: 
